@@ -1,0 +1,19 @@
+{
+  "name": "event-bot",
+  "version": "1.0.0",
+  "description": "A Discord bot used for events.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/newbs0001/event-bot.git"
+  },
+  "author": "Newbs0001",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/newbs0001/event-bot/issues"
+  },
+  "homepage": "https://github.com/newbs0001/event-bot#readme"
+}
